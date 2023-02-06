@@ -3,7 +3,7 @@ Maintainer: Dave Beckett <dajobe@debian.org>
 Section: devel
 Priority: extra
 Standards-Version: 3.9.6
-Build-Depends: debhelper (>= 5), dh-autoreconf
+Build-Depends: debhelper (>= 7), dh-autoreconf
 Homepage: http://invisible-island.net/byacc/
 
 Package: byacc
